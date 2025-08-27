@@ -1,0 +1,20 @@
+{
+  "catlog_nodes": [
+    {
+      "productId": "1",
+      "quantity": 1
+    },
+    {
+      "productId": "2",
+      "quantity": 2
+    },
+    {
+      "productId": "3",
+      "quantity": 3
+    },
+    {
+      "productId": "4",
+      "quantity": 4
+    }
+  ]
+}
